@@ -12,5 +12,5 @@ def fizzbuzz(int)
 
   else int % 4 == nil
     puts "Nil"
-
+  end
 end
